@@ -2,7 +2,8 @@
 
 ### [Live Site](https://metaversus-snowy.vercel.app)
 
-![metaversus](https://github.com/PavitarSharma/metaversus/assets/76960865/bc304ab2-090d-4cba-8e0e-8fa71ac687d1)
+![metaversus-snowy vercel app_](https://github.com/PavitarSharma/metaversus/assets/76960865/1e92400e-5c50-4de1-b82e-54784e33c666)
+
 
 
 
